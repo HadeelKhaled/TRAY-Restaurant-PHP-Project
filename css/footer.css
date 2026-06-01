@@ -1,0 +1,46 @@
+.footer {
+  background: #ed563b;
+  padding: 70px 0;
+}
+.F_container {
+  max-width: 1170px;
+  margin: auto;
+}
+ul {
+  list-style: none;
+}
+.F_row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.f_col {
+  width: 33%;
+  padding: 0 15px;
+  font-family: "Roboto", sans-serif;
+}
+.f_col h3 {
+  color: white;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  font-family: "Rajdhani", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+.f_col p {
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "Roboto", sans-serif;
+  color: #e5e5e5;
+  margin-bottom: 30px;
+}
+.f_col .parag {
+  margin-bottom: 10px;
+}
+.f_col .socialLinks a {
+  color: #cccccc;
+  display: inline-block;
+  padding: 0 10px;
+}
+.f_col .socialLinks a:hover {
+  color: white;
+}
